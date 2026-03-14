@@ -1,0 +1,10 @@
+C:\Users\Adarayan.288066\source\repos\ArrayPracticeQuiz\ArrayPracticeQuiz\bin\Debug\ArrayPracticeQuiz.exe.config
+C:\Users\Adarayan.288066\source\repos\ArrayPracticeQuiz\ArrayPracticeQuiz\bin\Debug\ArrayPracticeQuiz.exe
+C:\Users\Adarayan.288066\source\repos\ArrayPracticeQuiz\ArrayPracticeQuiz\bin\Debug\ArrayPracticeQuiz.pdb
+C:\Users\Adarayan.288066\source\repos\ArrayPracticeQuiz\ArrayPracticeQuiz\obj\Debug\ArrayPracticeQuiz.csproj.AssemblyReference.cache
+C:\Users\Adarayan.288066\source\repos\ArrayPracticeQuiz\ArrayPracticeQuiz\obj\Debug\ArrayPracticeQuiz.Form1.resources
+C:\Users\Adarayan.288066\source\repos\ArrayPracticeQuiz\ArrayPracticeQuiz\obj\Debug\ArrayPracticeQuiz.Properties.Resources.resources
+C:\Users\Adarayan.288066\source\repos\ArrayPracticeQuiz\ArrayPracticeQuiz\obj\Debug\ArrayPracticeQuiz.csproj.GenerateResource.cache
+C:\Users\Adarayan.288066\source\repos\ArrayPracticeQuiz\ArrayPracticeQuiz\obj\Debug\ArrayPracticeQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Adarayan.288066\source\repos\ArrayPracticeQuiz\ArrayPracticeQuiz\obj\Debug\ArrayPracticeQuiz.exe
+C:\Users\Adarayan.288066\source\repos\ArrayPracticeQuiz\ArrayPracticeQuiz\obj\Debug\ArrayPracticeQuiz.pdb
